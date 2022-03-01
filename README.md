@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaNoo97)](https://github.com/anuraghazra/github-readme-stats)
+- 🌱 I’m currently learning: SeSac iOS 개발자 데뷔과정 (2021/09/27 ~ )
+- 📫 How to reach me: vaetio0709@naver.com
