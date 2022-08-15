@@ -1,4 +1,3 @@
-# 안녕하세요! 김찬후 입니다!
 ## Project
 - 출시어플
   - [PolaCard repo](https://github.com/ChaNoo97/PolaCard.git)
